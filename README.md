@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📒 Here are my [AI learning notes](https://github.com/pillarliang/blog), I hope they will be useful to you.
+
+- 
 <!--
 **pillarliang/pillarliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
