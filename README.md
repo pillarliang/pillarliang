@@ -1,15 +1,15 @@
 ### Hi there 👋
-- 📒 Here are my [Blog](https://pillarliang.github.io/), I hope they will be useful to you.
+📒 Here are my [Blog](https://pillarliang.github.io/), I hope they will be useful to you.
 
 #### LLM 应用
-- [多模态文档检索](https://pillarliang.github.io/llm/app/multimodal-doc)
-- [混合检索](https://pillarliang.github.io/llm/app/hybrid-search)
-- [Agentic 设计模式](https://pillarliang.github.io/llm/app/agentic-patterns)
-- [NL2SQL](https://github.com/pillarliang/py-nl2sql)
-- [LLM 评估指南](https://pillarliang.github.io/llm/app/llm-evaluation)
-- [模型部署](https://pillarliang.github.io/llm/app/llm-deploy)
+- ✨[多模态文档检索](https://pillarliang.github.io/llm/app/multimodal-doc)
+- ✨[混合检索](https://pillarliang.github.io/llm/app/hybrid-search)
+- ✨[Agentic 设计模式](https://pillarliang.github.io/llm/app/agentic-patterns)
+- ✨[NL2SQL](https://github.com/pillarliang/py-nl2sql)
+- ✨[LLM 评估指南](https://pillarliang.github.io/llm/app/llm-evaluation)
+- ✨[模型部署](https://pillarliang.github.io/llm/app/llm-deploy)
   
-- 📒 Here are my [AI learning notes](https://github.com/pillarliang/blog), I hope they will be useful to you.
+📒 Here are my [AI learning notes](https://github.com/pillarliang/blog), I hope they will be useful to you.
 
 
 <!--
